@@ -1,147 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://foryoursweetheart.sg/</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/about-the-campaign</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/partners</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/what-can-you-do</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/events</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/stories-articles</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/stories-articles/media</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/quiz</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/quiz/what-can-you-do</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/national-heart-week-world-heart-day-2018</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/5-diet-myths-for-diabetic-patients-debunked</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/terms-of-use</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/data-privacy-statement</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/world-diabetes-day-2018</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/the-silent-killer-in-diabetes</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/%E7%B3%96%E5%B0%BF%E7%97%85%E5%92%8C%E5%BF%83%E8%84%8F%E7%97%85%EF%BC%9A%E4%B8%A4%E8%80%85%E6%9C%89%E4%BD%95%E5%85%B3%E8%81%94%EF%BC%9F</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/kencing-manis-dan-penyakit-jantung-apa-kaitannya</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/celebrating-our-sweetheart</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/heart-disease-in-diabetic-patients-a-cardiologists-perspective</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/putting-diabetes-and-heart-disease</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/cardiovascular-risk-factors-what-are-they</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/doctor-ive-got-diabetes-so-whats-next</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/heart-healthy-diet-for-diabetic-patients</loc>
-  <lastmod>2019-02-08T04:37:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/diabetes-and-heart-disease-whats-the-connection</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/looking-beyond-prevention-for-diabetes-care</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foryoursweetheart.sg/helping-your-loved-one-with-diabetes</loc>
-  <lastmod>2019-02-08T04:37:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://foryoursweetheart.sg/</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/about-the-campaign</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/partners</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/what-can-you-do</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/events</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/stories-articles</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/stories-articles/media</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/quiz</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/quiz/what-can-you-do</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/national-heart-week-world-heart-day-2018</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/5-diet-myths-for-diabetic-patients-debunked</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/terms-of-use</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/data-privacy-statement</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/world-diabetes-day-2018</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/the-silent-killer-in-diabetes</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/%E7%B3%96%E5%B0%BF%E7%97%85%E5%92%8C%E5%BF%83%E8%84%8F%E7%97%85%EF%BC%9A%E4%B8%A4%E8%80%85%E6%9C%89%E4%BD%95%E5%85%B3%E8%81%94%EF%BC%9F</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/kencing-manis-dan-penyakit-jantung-apa-kaitannya</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/celebrating-our-sweetheart</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/heart-disease-in-diabetic-patients-a-cardiologists-perspective</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/putting-diabetes-and-heart-disease</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/cardiovascular-risk-factors-what-are-they</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/doctor-ive-got-diabetes-so-whats-next</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/heart-healthy-diet-for-diabetic-patients</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/diabetes-and-heart-disease-whats-the-connection</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/looking-beyond-prevention-for-diabetes-care</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy</loc>
+  </url>
+  <url>
+    <loc>https://foryoursweetheart.sg/helping-your-loved-one-with-diabetes</loc>
+  </url>
 </urlset>

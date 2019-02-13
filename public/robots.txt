@@ -1,2 +1,4 @@
 User-agent: *
-crawl-delay: 60
+Disallow:
+
+Sitemap: https://foryoursweetheart.sg/sitemap.xml
