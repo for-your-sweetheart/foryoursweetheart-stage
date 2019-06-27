@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - '8'
 before_deploy:
-  - chmod +x ./scripts/pre-deploy.sh
+  - sh ./scripts/pre-deploy.sh
 deploy:
   - provider: firebase
     token:
