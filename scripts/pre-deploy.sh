@@ -10,7 +10,7 @@ else
   mkdir -p ./public
   rm -rf ./public/*
 
-  cp -vr ./wp-content/ ./public/
+  cp -vr ./wp-site-content/ ./public/
 
   # remove index.html
   # we don't want to copy the following 3 files
