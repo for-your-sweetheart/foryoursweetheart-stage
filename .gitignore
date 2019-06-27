@@ -81,3 +81,5 @@ typings/
 .dynamodb/
 
 .DS_Store
+
+wp-content/index.html
