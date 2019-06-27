@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - node
 before_deploy:
-  - ./scripts/pre-deploy.sh $TARGET_BRANCH
+  - ./scripts/pre-deploy.sh
 deploy:
   - provider: firebase
     token:
