@@ -3,7 +3,7 @@ echo "copying build files"
 mkdir -p ./public
 rm -rf ./public/*
 
-cp -vr ./wp-site-content/. ./public/
+cp -vr ./wp-site-content/* ./public/
 
 # remove index.html
 # we don't want to copy the following 3 files
@@ -12,4 +12,4 @@ rm -rf ./public/index.html
 rm -rf ./public/404.html
 rm -rf ./public/robots.txt
 
-cp -vr ./root-content/. ./public/
+cp -vr ./root-content/* ./public/
