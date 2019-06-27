@@ -1,0 +1,8 @@
+.wdi_load_more_wrap {height: auto !important;width: auto !important;padding: 6px 12px !important;}
+.nav-previous a, .nav-next a {color: #105aa1;font-weight: bold;}
+.single .ps-post--detail {margin-bottom: 50px;}
+footer a {color: #337ab7;}
+.cookie-notice-container a {text-decoration: underline;}
+.cookie-notice-container a:focus {color: #e82731;}
+@media only screen and (max-width:767px) {.single .col-sm-4 {padding-bottom: 15px;}}
+@media only screen and (min-width:768px) {ol li {font-size: 18px;line-height: 24px;}}
