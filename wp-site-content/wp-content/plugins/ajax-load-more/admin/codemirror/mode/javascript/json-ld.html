@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html><head><title>CodeMirror: JSON-LD mode</title><meta charset="utf-8"><link rel="stylesheet" href="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/doc/docs.css"><link rel="stylesheet" href="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/lib/codemirror.css"><script src="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/lib/codemirror.js"></script><script src="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/addon/edit/matchbrackets.js"></script><script src="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/addon/comment/continuecomment.js"></script><script src="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/addon/comment/comment.js"></script><script src=""></script><style type="text/css">.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}</style></head><body><div id="nav">
+  <a href=""><img id="logo" src="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/doc/logo.png"></a>
+
+  <ul><li><a href="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/index.html">Home</a>
+    </li><li><a href="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/doc/manual.html">Manual</a>
+    </li><li><a href="">Code</a>
+  </li></ul><ul><li><a href="../../../../../../../wp-content/plugins/ajax-load-more/admin/codemirror/mode/index.html">Language modes</a>
+    </li><li><a class="active" href="">JSON-LD</a>
+  </li></ul></div>
+
+<article><h2>JSON-LD mode</h2>
+
+
+<div><textarea id="code" name="code">
+{
+  "@context": {
+    "name": "https://schema.org/name",
+    "description": "https://schema.org/description",
+    "image": {
+      "@id": "https://schema.org/image",
+      "@type": "@id"
+    },
+    "geo": "https://schema.org/geo",
+    "latitude": {
+      "@id": "https://schema.org/latitude",
+      "@type": "xsd:float"
+    },
+    "longitude": {
+      "@id": "https://schema.org/longitude",
+      "@type": "xsd:float"
+    },
+    "xsd": "https://www.w3.org/2001/XMLSchema#"
+  },
+  "name": "The Empire State Building",
+  "description": "The Empire State Building is a 102-story landmark in New York City.",
+  "image": "https://www.civil.usherbrooke.ca/cours/gci215a/empire-state-building.jpg",
+  "geo": {
+    "latitude": "40.75",
+    "longitude": "73.98"
+  }
+}
+</textarea></div>
+
+    <script>
+      var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+        matchBrackets: true,
+        autoCloseBrackets: true,
+        mode: "application/ld+json",
+        lineWrapping: true
+      });
+    </script><p>This is a specialization of the <a href="">JavaScript mode</a>.</p>
+  </article></body></html>
