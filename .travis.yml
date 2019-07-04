@@ -12,3 +12,13 @@ deploy:
       secure: JgSyJbnlWqNFZkyBLNvC43tLQeYCYoCw3aCVFKCyWm2uaAAz7aSZHKI91Lk1OUnRILmWKlAsZ0BmRp5Y96eFH8h5uF071mQGBN+eUFr9Mmjcc0MsW6aRzezylSEG/ebSjlSdkyyenmRJ9D4csfu0J9m7umLEJx1n7RBF8NbJvaDFyhzQI0fdp5qpRkenzhg0VG1HvG2g6vtO7l3eiQrQcxZn5QA62VTD3BqVlD18RYIcPOjC6ptddu/aEhjO26dIY2beKBJEtQlJxFvtyGA4rg5ytHaiQqqffQb3smyWyy6pH6x8WcXxEd/NgdiiDoCkn5yJN5A6SFSvU98Qhvwc3MU+Hi+k72obL9Xb4d0iHgdh6M4VhD7zL3r32vQ0iew2e4/bV6OGOApLLlgSM6klkkh7HfEyZ3bxw+fmt+9+MlMW8fi9ZeXq8IUNeA5HPWOoVoUoMqD8P5ESj8F1fgdjl5XKobRDIek78trmSSLB1jDJVDHt1eqhmnS2xlst6ZXvk17BjrVHPaFy1ydvyLHF9BzQo98KJDm/i/JAiDAsgbGF779ABCRz8IJf5uJyQziLOThThpCSuOKxPK1/SdcZy3vK4oMVA9OFyBw01BKyK8dLNRiWCcczcrr8iVjsmlTPK5vOZL4x9ZToYcLlUdJ+KZYDi+prJlj6K+aqgeFwhIg=
     on:
       branch: staging
+    message: "staging deployment"
+    project: "foryoursweetheart-stage"
+  - provider: firebase
+    skip_cleanup: true
+    token:
+      secure: quJYOmzTqUt7b+bDxcCUbcXI3mulDRATVV9ZYRRrj7X4oJ9bnDvnFnIYplNY+4u1VmQrse0Y//MWxIVqsS7xENLy/DNUBhi2QcGoPKyr9jPqnx8qBYcjS0oVx4FWisqYCjdtGpMdJ2eYcHeSDn0jjBD3bJ5IcOc9Lq1+SyA74EzlrgmqJCTMFmd2Zsk1Xjii+VNhc45s2bShqTddyy58P5x1HbLKb8bCrqhHIq7cjWANn8Ve8W9/a4NZ7bDOO7rB5rc/tQ/HYB5smkjA6IhqHcsQ4koKyA7O6OpdFWYO9QKGLgodOoNjoTE/mFB4jXIyUpBoICya4jG3m4USjEDUDL4o7Y7z6r6cOsImD+VtJYhYIvGB+06ZpqyAR3Wqmo6l9TPP+LyQXoePvsoXKsmWU+rrkaW6vQnkCB9NIXoRyBjBzq7OD5JfUzIXUog1wg7/YrbnJJDlBtAVJswa/p5BPsdZ7eNRiQr62zdnk+RGrQgXwbCOyxLKaLXsTbSIubcgfc1lh90MqUv3WdArflE5iRxQre0XKzK4HzP1P7ijMp9K+7vgpK6dUaUSMuMS/1P4D4ZF8Fl3L9A2D18lcQjeX5wnP0ILxs76yJQDb+a3nNGPiIJ8bDrSv27GT+CyUJDNkPBBsC7xhyNeEGJHni/Y3FV0ueK0fXM4R+X/dHDJgMc=
+    on:
+      branch: master
+    message: "production deployment"
+    project: "foryoursweetheart-c6937"
