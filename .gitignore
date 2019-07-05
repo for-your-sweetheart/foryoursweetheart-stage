@@ -85,4 +85,5 @@ typings/
 
 package-lock.json
 
-wp-site-content/crawl-done.txt
+
+firebase-dist/
