@@ -82,8 +82,6 @@ typings/
 
 .DS_Store
 
-public
-
 package-lock.json
 
 firebase-dist/
