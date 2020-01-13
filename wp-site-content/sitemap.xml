@@ -19,7 +19,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
+            https://foryoursweetheart-stage.firebaseapp.com/about-the-campaign/
         </loc>
     </url>
     <url>
@@ -29,7 +29,12 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/about-the-campaign/
+            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
         </loc>
     </url>
     <url>
@@ -44,27 +49,17 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/terms-of-use/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
-        </loc>
-    </url>
-    <url>
-        <loc>
             https://foryoursweetheart-stage.firebaseapp.com/data-privacy-statement/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/national-heart-week-world-heart-day-2018/
+            https://foryoursweetheart-stage.firebaseapp.com/terms-of-use/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/ite-fiesta-2019/
+            https://foryoursweetheart-stage.firebaseapp.com/national-heart-week-world-heart-day-2018/
         </loc>
     </url>
     <url>
@@ -79,47 +74,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-heart-disease-whats-the-connection/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/exercise-to-manage-your-heart-health-say-no-to-diabetes/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/the-silent-killer-in-diabetes/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/heart-healthy-diet-for-diabetic-patients/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/糖尿病和心脏病：两者有何关联？/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/helping-your-loved-one-with-diabetes/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
+            https://foryoursweetheart-stage.firebaseapp.com/celebrating-our-sweetheart/
         </loc>
     </url>
     <url>
@@ -129,17 +84,22 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/celebrating-our-sweetheart/
+            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/kencing-manis-dan-penyakit-jantung-apa-kaitannya/
+            https://foryoursweetheart-stage.firebaseapp.com/the-silent-killer-in-diabetes/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
+            https://foryoursweetheart-stage.firebaseapp.com/helping-your-loved-one-with-diabetes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
         </loc>
     </url>
     <url>
@@ -149,12 +109,52 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
+            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-heart-disease-whats-the-connection/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/糖尿病和心脏病：两者有何关联？/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/kencing-manis-dan-penyakit-jantung-apa-kaitannya/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/heart-healthy-diet-for-diabetic-patients/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/ite-fiesta-2019/
         </loc>
     </url>
     <url>
         <loc>
             https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-stress-problems/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/exercise-to-manage-your-heart-health-say-no-to-diabetes/
         </loc>
     </url>
     
