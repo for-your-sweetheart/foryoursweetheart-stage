@@ -19,7 +19,17 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
+            https://foryoursweetheart-stage.firebaseapp.com/about-the-campaign/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/events/
         </loc>
     </url>
     <url>
@@ -29,7 +39,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
+            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
         </loc>
     </url>
     <url>
@@ -49,17 +59,27 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/events/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/about-the-campaign/
-        </loc>
-    </url>
-    <url>
-        <loc>
             https://foryoursweetheart-stage.firebaseapp.com/national-heart-week-world-heart-day-2018/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/ite-fiesta-2019/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/late-night-snacking-is-it-really-harmful-to-your-heart/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-stress-problems/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
         </loc>
     </url>
     <url>
@@ -69,17 +89,22 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
+            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/celebrating-our-sweetheart/
+            https://foryoursweetheart-stage.firebaseapp.com/ketogenic-diet-is-it-good-for-your-heart/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
+            https://foryoursweetheart-stage.firebaseapp.com/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/the-silent-killer-in-diabetes/
         </loc>
     </url>
     <url>
@@ -94,42 +119,17 @@
     </url>
     <url>
         <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
+        </loc>
+    </url>
+    <url>
+        <loc>
             https://foryoursweetheart-stage.firebaseapp.com/exercise-to-manage-your-heart-health-say-no-to-diabetes/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-stress-problems/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/kencing-manis-dan-penyakit-jantung-apa-kaitannya/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/ketogenic-diet-is-it-good-for-your-heart/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
+            https://foryoursweetheart-stage.firebaseapp.com/celebrating-our-sweetheart/
         </loc>
     </url>
     <url>
@@ -139,12 +139,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/the-silent-killer-in-diabetes/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/late-night-snacking-is-it-really-harmful-to-your-heart/
+            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
         </loc>
     </url>
     <url>
@@ -159,7 +154,12 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/ite-fiesta-2019/
+            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/kencing-manis-dan-penyakit-jantung-apa-kaitannya/
         </loc>
     </url>
     
