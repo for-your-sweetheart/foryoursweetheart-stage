@@ -19,22 +19,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/partners/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
-        </loc>
-    </url>
-    <url>
-        <loc>
             https://foryoursweetheart-stage.firebaseapp.com/about-the-campaign/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/media/
         </loc>
     </url>
     <url>
@@ -49,12 +34,27 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
+            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/media/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/what-can-you-do/
         </loc>
     </url>
     <url>
         <loc>
             https://foryoursweetheart-stage.firebaseapp.com/data-privacy-statement/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/partners/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/stories-articles/
         </loc>
     </url>
     <url>
@@ -69,17 +69,12 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/ketogenic-diet-is-it-good-for-your-heart/
+            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/heart-healthy-diet-for-diabetic-patients/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
+            https://foryoursweetheart-stage.firebaseapp.com/helping-your-loved-one-with-diabetes/
         </loc>
     </url>
     <url>
@@ -89,22 +84,22 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
-        </loc>
-    </url>
-    <url>
-        <loc>
             https://foryoursweetheart-stage.firebaseapp.com/exercise-to-manage-your-heart-health-say-no-to-diabetes/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-stress-problems/
+            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/helping-your-loved-one-with-diabetes/
+            https://foryoursweetheart-stage.firebaseapp.com/cardiovascular-risk-factors-what-are-they/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy/
         </loc>
     </url>
     <url>
@@ -119,12 +114,7 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/5-diet-myths-for-diabetic-patients-debunked/
+            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-heart-disease-whats-the-connection/
         </loc>
     </url>
     <url>
@@ -134,7 +124,12 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/doctor-ive-got-diabetes-so-whats-next/
+            https://foryoursweetheart-stage.firebaseapp.com/5-diet-myths-for-diabetic-patients-debunked/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/looking-beyond-prevention-for-diabetes-care/
         </loc>
     </url>
     <url>
@@ -144,17 +139,22 @@
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-heart-disease-whats-the-connection/
+            https://foryoursweetheart-stage.firebaseapp.com/putting-diabetes-and-heart-disease/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/heart-disease-in-diabetic-patients-a-cardiologists-perspective/
+            https://foryoursweetheart-stage.firebaseapp.com/heart-healthy-diet-for-diabetic-patients/
         </loc>
     </url>
     <url>
         <loc>
-            https://foryoursweetheart-stage.firebaseapp.com/3-tips-for-diabetic-patients-to-keep-their-hearts-healthy/
+            https://foryoursweetheart-stage.firebaseapp.com/diabetes-and-stress-problems/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://foryoursweetheart-stage.firebaseapp.com/ketogenic-diet-is-it-good-for-your-heart/
         </loc>
     </url>
     <url>
