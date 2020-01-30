@@ -15,3 +15,5 @@ rm -rf ./firebase-dist/404.html
 rm -rf ./firebase-dist/robots.txt
 
 cp -vr ./root-content/* ./firebase-dist/
+pwd
+ls -la
