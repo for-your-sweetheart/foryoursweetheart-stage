@@ -7,7 +7,7 @@ before_deploy:
 script: 'true'
 deploy:
   - provider: firebase
-    cleanup: false
+    skip_cleanup: true
     token:
       secure: JgSyJbnlWqNFZkyBLNvC43tLQeYCYoCw3aCVFKCyWm2uaAAz7aSZHKI91Lk1OUnRILmWKlAsZ0BmRp5Y96eFH8h5uF071mQGBN+eUFr9Mmjcc0MsW6aRzezylSEG/ebSjlSdkyyenmRJ9D4csfu0J9m7umLEJx1n7RBF8NbJvaDFyhzQI0fdp5qpRkenzhg0VG1HvG2g6vtO7l3eiQrQcxZn5QA62VTD3BqVlD18RYIcPOjC6ptddu/aEhjO26dIY2beKBJEtQlJxFvtyGA4rg5ytHaiQqqffQb3smyWyy6pH6x8WcXxEd/NgdiiDoCkn5yJN5A6SFSvU98Qhvwc3MU+Hi+k72obL9Xb4d0iHgdh6M4VhD7zL3r32vQ0iew2e4/bV6OGOApLLlgSM6klkkh7HfEyZ3bxw+fmt+9+MlMW8fi9ZeXq8IUNeA5HPWOoVoUoMqD8P5ESj8F1fgdjl5XKobRDIek78trmSSLB1jDJVDHt1eqhmnS2xlst6ZXvk17BjrVHPaFy1ydvyLHF9BzQo98KJDm/i/JAiDAsgbGF779ABCRz8IJf5uJyQziLOThThpCSuOKxPK1/SdcZy3vK4oMVA9OFyBw01BKyK8dLNRiWCcczcrr8iVjsmlTPK5vOZL4x9ZToYcLlUdJ+KZYDi+prJlj6K+aqgeFwhIg=
     on:
@@ -15,7 +15,7 @@ deploy:
     message: "staging deployment"
     project: "foryoursweetheart-stage"
   - provider: firebase
-    cleanup: false
+    skip_cleanup: true
     token:
       secure: X4jy9zZ8Woj001XL0XDmAqp8qENmZGlCEEvMfFN5d6H+x91QLOBmypsukq+C87dKmVjvG4DWyVTV1kBeQDpkXxfAZEKmCvnKRfG5w060uNbJvFfnMl8wPxDLWID0XHFLNgTCkLwMTfGbK0BIJQIcbfSjCjSBXQeUNPSFPOKZQh0FC0D+j8wgKv2mM4DkoBFOIv06mOMZdpoRSDixYEmncXlNYtmuCOzSuXh8Msouu2BTORSy4VNwzbbP+vbhOZkxay21ZCk0u3d3ZoXIQ/PZ0yX/8VzsKAHQUJ+CwoBTv7hIHBjhyteFBe2c8CMVuST2dNR9X2QRHm3RCfBGlD2NrYuPQHgoKSmg+egAQHuVP/we9nhfNlLgTASsPxU9d1IvsWIU0fSA+LaA4PPV2JTsiYdguqTiNBuc5IasfcdSlksVRDFgmG3BvvgtnHD+6V4ltd59bB/v1/oi3uYtBjJDX0pCzX3SAmb6OS77mh52Ng6B+ReBnyGPAW7l4uiGAZ61k7TNQpd7byb+BbTFHV5+4FSn6n6GH+CLXBgqs/sZv5A/zQEpi57E2DmQnwgMEvfyBpU8d+3Cp4pkW4kEuFLnIiuiG6e03lOaop2JcS0zMQse77tEtlaCuSr0pOZWtjDxxn4zW3CdyUwCeiDMTAsg66149MzJ7RewHhkq2Yp+S4w=
     on:
