@@ -4,6 +4,7 @@ node_js:
   - '8'
 before_deploy:
   - sh ./scripts/pre-deploy.sh
+script: 'true'
 deploy:
   - provider: firebase
     cleanup: false
