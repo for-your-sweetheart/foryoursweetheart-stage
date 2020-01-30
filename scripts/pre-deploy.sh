@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "copying build files"
 mkdir -p ./firebase-dist
+pwd
+ls -la
 rm -rf ./firebase-dist/*
 
 cp -vr ./wp-site-content/* ./firebase-dist/
